@@ -1,7 +1,18 @@
 {
-	"dependencies": {
-	},
-	"scripts": {
+	"name": "test",
+    "version": "0.1.0",
+    "description": "Test",
+    "author": "TooBug",
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "main": "index",
+    "bin": {
+    },
+    "scripts": {
 		"test": "jasmine test"
-	}
+    },
+    "engines": {
+    }
 }
