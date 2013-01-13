@@ -3,5 +3,4 @@ node_js:
   - 0.8
   - 0.6
 before_script:
-  - "sudo -s"
-  - "npm i -g jasmine-node"
+  - "sudo npm install jasmine-node -g"
