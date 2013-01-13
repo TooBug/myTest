@@ -11,7 +11,7 @@
     "bin": {
     },
     "scripts": {
-		"test": "jasmine test"
+		"test": "jasmine-node test"
     },
     "engines": {
     }
